@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @remote-userd
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me coding
-- 😄 Pronouns: coding
-- ⚡ Fun fact: coding
+# Hi, I'm UserD 👋
 
-<!---
-remote-userd/remote-userd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full Stack Developer
+
+I'm a passionate Full Stack Developer who enjoys building scalable web applications, solving complex problems, and learning new technologies.
+
+### 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌐 Building modern web applications
+- 🔧 Experienced in frontend and backend development
+- 📚 Always learning and improving my skills
+- 🤝 Open to collaboration and exciting projects
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Database**
+- PostgreSQL
+- MySQL
+- MongoDB
+
+**Tools & Platforms**
+- Git & GitHub
+- Docker
+- Linux
+- AWS
+
+### 📈 What I Do
+
+- Develop responsive and user-friendly web applications
+- Design and build backend services and APIs
+- Work with databases and cloud infrastructure
+- Focus on clean code and scalable architecture
+
+### 📫 Connect With Me
+
+Feel free to check out my repositories and projects.
+
+---
+⭐ Building, learning, and sharing through code.
